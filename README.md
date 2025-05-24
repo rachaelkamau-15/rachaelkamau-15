@@ -9,26 +9,27 @@ My career journey has naturally progressed toward cybersecurity. I am currently 
 
 
 <p>
-  <a href="https://www.linkedin.com/in/rachael-kamau">
+  <a href="https://www.linkedin.com/in/rachael-kamau" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   
-  <a href="mailto:your.rachaelkamau@gmail.com">
+  <a href="mailto:rachaelkamau@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
   <a href="tel:+254718959518">
-  <img src="https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
 
-  <a href="https://https://medium.com/@rachaelkamau">
+  <a href="https://medium.com/@rachaelkamau" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
   
-  <a href="https://https://github.com/rachaelkamau-15">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/rachaelkamau-15" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+
 
 ## 🛠️ Technical Skills
 
