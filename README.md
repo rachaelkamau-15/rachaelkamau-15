@@ -1,5 +1,5 @@
 
-# **RACHAEL KAMAU**
+# ** Hi, I'm Rachael Kamau**
 
 ## Introduction 
 Starting from a strong foundation in operations and supply chain where I honed my skills in streamlining workflows and managing complex projects, I have expanded my expertise into technology with hands-on experience in mobile and website development. Driven by a passion for problem-solving, I am continuously developing my knowledge in cybersecurity and cloud technologies to create efficient and secure solutions.
