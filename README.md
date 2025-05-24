@@ -52,18 +52,18 @@ My career journey has naturally progressed toward cybersecurity. I am currently 
 
 #### Pine City Zoo APP
 - Built with HTML $ CSS 
-- [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]https://github.com/rachaelkamau-15/Pine-City-Zoo
+- [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/Pine-City-Zoo)
 
 #### Genesis Pregnancy Helper (Flutter Mobile App)
 - Aavailable on the Play Store.
 - Buiit with Dart
 - Offers comprehensive pregnancy information for confident childbirth preparation.
--  [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]https://github.com/rachaelkamau-15/pregancy_helper
+-  [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/pregancy_helper)
 
 #### Maternal Health Care Website
 - Created a website focused on maternal healthcare.  
 - Built with HTML, CSS, JavaScript, PHP, and MySQL.  
-- [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]https://github.com/rachaelkamau-15/Genesis_Maternal
+- [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/Genesis_Maternal)
 
 #### Kenya Trivia Game
 - Built a trivia game using Python to enhance knowledge about Kenya.
@@ -78,8 +78,8 @@ My career journey has naturally progressed toward cybersecurity. I am currently 
 
 #### Two-Factor Authentication (2FA) Implementation in Python-based applications  [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/FUTURE_CS_01)
 
-#### Firewall Setup Documentation for Kali Linux Using Uncomplicated Firewall (UFW) [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]https://github.com/rachaelkamau-15/FUTURE_CS_02
+#### Firewall Setup Documentation for Kali Linux Using Uncomplicated Firewall (UFW) [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/FUTURE_CS_02)
 
-####  Secure Password Manager [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]https://github.com/rachaelkamau-15/FUTURE_CS_03
+####  Secure Password Manager [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/FUTURE_CS_03(
 
 
