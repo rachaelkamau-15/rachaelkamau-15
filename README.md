@@ -1,5 +1,29 @@
 
-# ** Hi, I'm Rachael Kamau**
+# ** RACHAEL KAMAU**
+## 🤳 Connect with me:
+<p>
+  <a href="https://www.linkedin.com/in/rachael-kamau" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="mailto:rachaelkamau@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+  <a href="tel:+254718959518">
+    <img src="https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+
+  <a href="https://medium.com/@rachaelkamau" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  
+  <a href="https://github.com/rachaelkamau-15" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
 
 ## Introduction 
 Starting from a strong foundation in operations and supply chain where I honed my skills in streamlining workflows and managing complex projects, I have expanded my expertise into technology with hands-on experience in mobile and website development. Driven by a passion for problem-solving, I am continuously developing my knowledge in cybersecurity and cloud technologies to create efficient and secure solutions.
@@ -59,29 +83,6 @@ My career journey has naturally progressed toward cybersecurity. I am currently 
 | **Other Tools**        | ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white) ![Digital Marketing](https://img.shields.io/badge/Digital_Marketing-FF5722?style=for-the-badge&logo=google-analytics&logoColor=white) |
 
 ---
-## 🤳 Connect with me:
-<p>
-  <a href="https://www.linkedin.com/in/rachael-kamau" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  
-  <a href="mailto:rachaelkamau@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  
-  <a href="tel:+254718959518">
-    <img src="https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-
-  <a href="https://medium.com/@rachaelkamau" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  
-  <a href="https://github.com/rachaelkamau-15" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 
 
 
