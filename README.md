@@ -67,7 +67,7 @@ My career journey has naturally progressed toward cybersecurity. I am currently 
 
 #### Kenya Trivia Game
 - Built a trivia game using Python to enhance knowledge about Kenya.
-- [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]https://github.com/rachaelkamau-15/python_kibo_project
+- [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/python_kibo_project)
 
 
 ## **Cybersecurity Projects**
@@ -76,7 +76,7 @@ My career journey has naturally progressed toward cybersecurity. I am currently 
 - Designed a phishing simulation email in the MasterCard Virtual Experience Program (Forage).  
 - Analyzed results and trained users in phishing prevention.
 
-#### Two-Factor Authentication (2FA) Implementation in Python-based applications  [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)][https://github.com/rachaelkamau-15](https://github.com/rachaelkamau-15/FUTURE_CS_01)
+#### Two-Factor Authentication (2FA) Implementation in Python-based applications  [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/FUTURE_CS_01)
 
 #### Firewall Setup Documentation for Kali Linux Using Uncomplicated Firewall (UFW) [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]https://github.com/rachaelkamau-15/FUTURE_CS_02
 
