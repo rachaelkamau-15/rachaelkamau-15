@@ -80,6 +80,6 @@ My career journey has naturally progressed toward cybersecurity. I am currently 
 
 #### Firewall Setup Documentation for Kali Linux Using Uncomplicated Firewall (UFW) [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/FUTURE_CS_02)
 
-####  Secure Password Manager [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/FUTURE_CS_03(
+####  Secure Password Manager [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/FUTURE_CS_03)
 
 
