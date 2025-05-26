@@ -40,7 +40,7 @@ My career journey has naturally progressed toward cybersecurity. I am currently 
 - [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/Pine-City-Zoo)
 
 #### Genesis Pregnancy Helper (Flutter Mobile App)
-- Aavailable on the Play Store.
+- Available on the Play Store.
 - Buiit with Dart
 - Offers comprehensive pregnancy information for confident childbirth preparation.
 -  [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/pregancy_helper)
