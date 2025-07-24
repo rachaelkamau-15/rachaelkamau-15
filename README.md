@@ -60,11 +60,11 @@ My career journey has naturally progressed toward cybersecurity. I am currently 
        alt="Get it on Google Play" style="height:40px;">
 </a>
 
-#### Maternal Health Care Website
+#### Genesis Maternal  Website
 - Created a website focused on maternal healthcare.  
 - Built with HTML, CSS, JavaScript, PHP, and MySQL.  
 - [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/Genesis_Maternal)
-- <a href="https://www.trisecuresolutions.co.ke" target="_blank">
+- <a href="https://genesismaternal.netlify.app/" target="_blank">
   <i class="fas fa-globe fa-2x"></i> Visit the Website
 </a>
 
