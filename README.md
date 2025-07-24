@@ -35,6 +35,17 @@ My career journey has naturally progressed toward cybersecurity. I am currently 
 
 ## **Software Engineering Projects**
 
+#### Trisecure Solutions
+- Fully responsive with Bootstrap 5
+- Built with HTML, CSS & Javascript
+- Information Technology (IT) Services
+-  [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/TriSec-website.git)
+-  <a href="https://www.yourwebsite.com" target="_blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/84/84380.png" 
+       alt="Website" style="height:32px;">
+</a>
+
+
 #### Pine City Zoo APP
 - Built with HTML $ CSS 
 - [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/Pine-City-Zoo)
@@ -43,6 +54,10 @@ My career journey has naturally progressed toward cybersecurity. I am currently 
 - Available on the Play Store.
 - Buiit with Dart
 - Offers comprehensive pregnancy information for confident childbirth preparation.
+- <a href="https://play.google.com/store/apps/details?id=your.app.id" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" 
+       alt="Play Store" style="height:40px;">
+</a>
 -  [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/pregancy_helper)
 
 #### Maternal Health Care Website
