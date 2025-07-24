@@ -40,10 +40,10 @@ My career journey has naturally progressed toward cybersecurity. I am currently 
 - Built with HTML, CSS & Javascript
 - Information Technology (IT) Services
 -  [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/TriSec-website.git)
--  <a href="https://www.trisecuresolutions.co.ke" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/84/84380.png" 
-       alt="Website" style="height:32px;">
+- <a href="https://www.trisecuresolutions.co.ke" target="_blank">
+  <i class="fas fa-globe fa-2x"></i> Visit the Website
 </a>
+
 
 
 #### Pine City Zoo APP
@@ -64,10 +64,10 @@ My career journey has naturally progressed toward cybersecurity. I am currently 
 - Created a website focused on maternal healthcare.  
 - Built with HTML, CSS, JavaScript, PHP, and MySQL.  
 - [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/Genesis_Maternal)
-- -  <a href="https://www.trisecuresolutions.co.ke" target="_blank">
-  <img src="https://cdn-icons-png.flaticon.com/512/84/84380.png" 
-       alt="Website" style="height:32px;">
+- <a href="https://www.trisecuresolutions.co.ke" target="_blank">
+  <i class="fas fa-globe fa-2x"></i> Visit the Website
 </a>
+
 
 #### Kenya Trivia Game
 - Built a trivia game using Python to enhance knowledge about Kenya.
