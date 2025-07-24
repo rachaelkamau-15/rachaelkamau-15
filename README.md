@@ -55,8 +55,9 @@ My career journey has naturally progressed toward cybersecurity. I am currently 
 - Buiit with Dart
 - Offers comprehensive pregnancy information for confident childbirth preparation.
 -  [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/pregancy_helper)
-<a href="https://shorturl.at/lvDIV" target="_blank" class="me-3">
-  <i class="fab fa-google-play fa-2x"></i> Play Store
+<a href="https://shorturl.at/lvDIV" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" 
+       alt="Get it on Google Play" style="height:40px;">
 </a>
 
 #### Maternal Health Care Website
