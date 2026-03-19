@@ -35,11 +35,19 @@ My career journey has naturally progressed toward cybersecurity. I am currently 
 
 ## **Software Engineering Projects**
 
+#### Lemook Gardens
+- Fully responsive with Bootstrap 5
+- Built with HTML, CSS & Javascript
+- Information Technology (IT) Services
+- <a href="https://lemookgardens.com/" target="_blank">
+  <i class="fas fa-globe fa-2x"></i> Visit the Website
+</a>
+
+
 #### Trisecure Solutions
 - Fully responsive with Bootstrap 5
 - Built with HTML, CSS & Javascript
 - Information Technology (IT) Services
--  [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/TriSec-website.git)
 - <a href="https://www.trisecuresolutions.co.ke" target="_blank">
   <i class="fas fa-globe fa-2x"></i> Visit the Website
 </a>
@@ -55,15 +63,10 @@ My career journey has naturally progressed toward cybersecurity. I am currently 
 - Buiit with Dart
 - Offers comprehensive pregnancy information for confident childbirth preparation.
 -  [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/pregancy_helper)
-<a href="https://shorturl.at/lvDIV" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" 
-       alt="Get it on Google Play" style="height:40px;">
-</a>
 
 #### Genesis Maternal  Website
 - Created a website focused on maternal healthcare.  
 - Built with HTML, CSS, JavaScript, PHP, and MySQL.  
-- [![GitHub Logo](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rachaelkamau-15/Genesis_Maternal)
 - <a href="https://genesismaternal.netlify.app/" target="_blank">
   <i class="fas fa-globe fa-2x"></i> Visit the Website
 </a>
