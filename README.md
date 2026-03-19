@@ -38,7 +38,7 @@ My career journey has naturally progressed toward cybersecurity. I am currently 
 #### Lemook Gardens
 - Fully responsive with Bootstrap 5
 - Built with HTML, CSS & Javascript
-- Information Technology (IT) Services
+- Restraurant and Hospitality Services
 - <a href="https://lemookgardens.com/" target="_blank">
   <i class="fas fa-globe fa-2x"></i> Visit the Website
 </a>
